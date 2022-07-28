@@ -6,7 +6,7 @@
 
 # Usage
 python3 csdn_burte.py
-请输入csdn用户名：xxx
+<br>请输入csdn用户名：xxx
 
 # todo
 全自动对接代理池
