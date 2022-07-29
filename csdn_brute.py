@@ -5,7 +5,6 @@ import urllib3
 import itertools as it
 import time
 import json
-import signal
 from tqdm import tqdm
 from lxml import etree
 
